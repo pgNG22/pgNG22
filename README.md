@@ -1,6 +1,6 @@
 ## Current Projects:
 
-- [Vynlo](https://github.com/pgNG22/Vynlo-discordbot) - Discord Music Bot w/ interactive UI instead of text commands
+- [Vynlo](https://github.com/pgNG22/Vynlo-discordbot) - Discord Music Bot w/ interactive UI instead of text commands ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  <sup>python & discord.py</sup>
 
 <!--
 **pgNG22/pgNG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
