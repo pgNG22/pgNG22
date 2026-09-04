@@ -1,6 +1,7 @@
 ## Current Projects:
 
-- [Vynlo](https://github.com/pgNG22/Vynlo-discordbot) - Discord Music Bot w/ interactive UI instead of text commands ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  <sup>python & discord.py</sup>
+- [Vynlo](https://github.com/pgNG22/Vynlo-discordbot) - Discord Music Bot w/ interactive UI instead of text commands ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  <sup>python & discord.py</sup>
+- [Priceforge](https://github.com/pgNG22/priceforge) - web app which tracks console game prices, trends & gives buy/wait verdicts.          ‎ ‎ ‎ ‎  ‎   ‎ ‎ ‎ ‎  ‎           <sup>next.js & python/fastapi</sup>
 
 <!--
 **pgNG22/pgNG22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
